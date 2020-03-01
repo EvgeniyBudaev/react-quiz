@@ -1,6 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React Приложение: Опросный лист
 
-## Available Scripts
+ ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme1.jpg)
+ ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme2.jpg)
+ ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme3.jpg)
+ ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme4.jpg)
 
 In the project directory, you can run:
 ### `npm run eject`
