@@ -8,6 +8,7 @@
 In the project directory, you can run:
 ### `npm run eject`
 ### `npm install`
+### `npm install react-router-dom`
 ### `npm start`
 
 Runs the app in the development mode.<br />
