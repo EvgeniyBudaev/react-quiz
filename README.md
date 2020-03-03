@@ -1,5 +1,6 @@
 ## React Приложение: Опросный лист
 
+ ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme0.jpg)
  ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme1.jpg)
  ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme2.jpg)
  ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme3.jpg)
