@@ -1,16 +1,23 @@
 ## React Приложение: Опросный лист
 
- ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme0.jpg)
- ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme1.jpg)
- ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme2.jpg)
- ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme3.jpg)
- ![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme4.jpg)
+![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme0.jpg)
+![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme1.jpg)
+![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme2.jpg)
+![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme3.jpg)
+![Image alt](https://github.com/EvgeniyBudaev/react-quiz/raw/master/public/images/readme4.jpg)
 
 In the project directory, you can run:
+
 ### `npm run eject`
+
 ### `npm install`
+
 ### `npm install react-router-dom`
+
 ### `npm install is_js`
+
+### `npm install axios`
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
