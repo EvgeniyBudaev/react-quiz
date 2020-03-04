@@ -1,8 +1,8 @@
 import React from 'react';
 import classes from './Input.module.css';
 
-function isInvalid({ valid, touched, shoouldValidate }) {
-  return !valid && shoouldValidate && touched
+function isInvalid({ valid, touched, shouldValidate }) {
+  return !valid && shouldValidate && touched
 }
 
 const Input = props => {
@@ -27,9 +27,9 @@ const Input = props => {
         isInvalid(props) ? <span>{props.errorMessage || 'Введите верное значение'}</span> : null
       }
 
-
     </div>
   )
 };
+
 
 export default Input;
