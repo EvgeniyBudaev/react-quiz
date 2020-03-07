@@ -89,7 +89,7 @@ export default class QuizCreator extends Component {
     event.preventDefault();
 
     try {
-      const response = await axios.post(
+      await axios.post(
         "https://react-quiz-bb571.firebaseio.com/quizes.json",
         this.state.quiz
       );
